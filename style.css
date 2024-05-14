@@ -12,10 +12,10 @@ html {
 
 body {
   display: flex;
-  //color de fuente bienvenidos
-  color: #0A37EA; //#e62e1b;
-  //color de fondo
-  background: #0F1115;
+  //color de fuente 
+  color: #0F1115; //#e62e1b;
+  //color de fondo bienvenidos
+  background: #0A37EA;
   margin-right: 9em;
   padding: 1em;
   font-family: Font;
@@ -48,7 +48,7 @@ h1 {
 h2 {
   font-size: 1.2em;
   font-weight: 600;
-  color: #c5c5c5;
+  color: #484AFE;
   grid-column: 1/-1;
   text-align: center;
   margin-bottom: 2.3em;
