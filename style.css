@@ -29,7 +29,7 @@ img {
 
 nav {
   display: grid;
-  grid-row-gap: 1em;
+  grid-row-gap: .5em;
   grid-template-columns: 1fr 1fr;
   min-width: 24em;
   grid-auto-rows: max-content;
